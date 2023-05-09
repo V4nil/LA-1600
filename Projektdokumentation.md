@@ -28,12 +28,15 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1   |Website ist offen |Der User klickt auf den Dark Mode     | Die ganze Seite ist jetzt im Dark Mode  |
+| 2.1    |User hat auf Ernährung geklickt | Der User klickt auf Cut | Die Unterseite Cut wird angezeigt |
+| 3.1    |User hat auf Ernährung geklickt | Der User klickt auf Bulk | Die Unterseite Bulk wird angezeigt |
+| 4.1    | User hat auf Körperliches geklickt | Der User klickt auf Cardio | Die Unterseite Cardio wird angezeigt |
+| 5.1   | User hat auf Körperliches geklickt | Der User klickt auf Eisbad | Die Unterseite Eisbad wird angezeigt |
+| 6.1   | User hat auf Körperliches geklickt | Der User klickt auf Physio |Die Unterseite Physio wird angezeigt|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
