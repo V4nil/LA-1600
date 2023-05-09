@@ -11,7 +11,7 @@ Gilardoni, Bytyqi, Kritzner
 
 ### 1.1 Ihr Projekt
 
-Wir machen eine Website, wo man personalisierte Grusskarten erstellen lassen kann. Es gibt verschiedene Designs für verschiedene Anlässe, wie Geburtstage, Hochzeiten und Weihnachten. 
+Wir machen eine Website, wo man sich über Ernährung und Körperliches informieren kann. Es gibt Tipps für verschiedene Ernährungsarten wie Cut (Kalorien Defizit) und Bulk (Kalorien Zunahme).
 
 ![MicrosoftTeams-image (42)](https://user-images.githubusercontent.com/110892683/237025824-f704b7c6-94a4-48ca-90a1-124fc1d5d810.png)
 
