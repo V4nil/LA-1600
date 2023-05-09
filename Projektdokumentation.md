@@ -19,8 +19,11 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | kann | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
+| 2  | muss | funktional | Als ein User möchte ich vieles über den Cut erfahren, damit ich endlich richtig abnehmen kann. |
+| 3  | muss | funktional | Als ein User möchte ich vieles über den Bulk erfahren, damit ich endlich richtig Muskeln aufbauen kann. |
+| 4  | muss | funktional | Als ein User möchte ich etwas über Cardio erfahren, damit ich meine Ausdauer verbessern kann. |
+| 5  | muss | funktional | Als ein User möchte ich wissen wie man richtig Eis badet, damit ich die Vorteile mitnehmen kann. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
