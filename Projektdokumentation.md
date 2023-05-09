@@ -13,6 +13,8 @@ Gilardoni, Bytyqi, Kritzner
 
 Wir machen eine Website, wo man personalisierte Grusskarten erstellen lassen kann. Es gibt verschiedene Designs für verschiedene Anlässe, wie Geburtstage, Hochzeiten und Weihnachten. 
 
+![MicrosoftTeams-image (42)](https://user-images.githubusercontent.com/110892683/237025603-1d774bef-cc2e-4c98-9a5b-808a30c73ac2.png)
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
