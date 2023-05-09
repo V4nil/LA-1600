@@ -26,9 +26,6 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 5  | muss | funktional | Als ein User möchte ich wissen wie man richtig Eis badet, damit ich die Vorteile mitnehmen kann. |
 | 6  | muss | funktional | Als ein User möchte ich mich über Verletzungen informieren, damit ich diese besser verstehen kann. |
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
