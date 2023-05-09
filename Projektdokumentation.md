@@ -37,7 +37,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![LA1600](https://user-images.githubusercontent.com/110892683/237035884-9ee5ff99-3d9e-4637-a004-5636c47776ec.png)
 
 ## 2 Planen
 
