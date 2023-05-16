@@ -46,13 +46,13 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 4.A  |       |           | geeignete Bilder aussuchen | 45' |
-| 4.b  |       |           | Bilder zuschneiden und anpassen | 2 * 45' |
-| 4.c  |       |           | Bilder implementieren | 45' |
-| 5.a  |       |           | Farbschema aussuchen | 20' |
-| 5.b  |       |           | Farbe in die Website implementieren | 25' |
-| 5.c  |       |           | Schriftfarbe auswählen | 15' |
-| 5.d  |       |           | Schriftfarbe implementieren | 30' |
+| 4.A  |23.04.23|Kritzner| geeignete Bilder aussuchen | 45' |
+| 4.b  |23.04.23|Kritzner| Bilder zuschneiden und anpassen | 2 * 45' |
+| 4.c  |23.04.23|Kritzner| Bilder implementieren | 45' |
+| 5.a  |23.04.23|Gilardoni| Farbschema aussuchen | 20' |
+| 5.b  |23.04.23|Gilardoni| Farbe in die Website implementieren | 25' |
+| 5.c  |23.04.23|Gilardoni| Schriftfarbe auswählen | 15' |
+| 5.d  |23.04.23|Gilardoni| Schriftfarbe implementieren | 30' |
 
 
 
