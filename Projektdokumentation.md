@@ -35,7 +35,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 3.1    |Website ist offen| Der User ändert die Sprache | Die Seite wird übersetzt |
 | 4.1    | Website ist offen | Der User klickt auf zum Beispiel auf Ernährung  | Man sieht die Bilder auf der Unterseite Ernährung |
 | 5.1   | Website ist offen | keine Eingabe | Der User sieht verschiedene Farben und Schriftarten |
-| 6.1   | User hat auf Körperliches geklickt | Der User klickt auf Physio |Die Unterseite Physio wird angezeigt|
+| 6.1   | - | Website wird geöffnet |Die Farben passen sich automatisch an|
 
 
 ### 1.4 Diagramme
