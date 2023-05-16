@@ -19,11 +19,11 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | kann | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
+| 1    | muss | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
 | 2  | muss | funktional | Als ein User möchte ich vieles über den Cut erfahren, damit ich endlich richtig abnehmen kann. |
 | 3  | muss | funktional | Als ein User möchte ich vieles über den Bulk erfahren, damit ich endlich richtig Muskeln aufbauen kann. |
-| 4  | muss | funktional | Als ein User möchte ich geignete Bilder zu den Informationen sehen, damit ich diese besser verstehe. |
-| 5  | muss | funktional | Als ein User möchte ich wissen wie man richtig Eis badet, damit ich die Vorteile mitnehmen kann. |
+| 4  | muss | funktional | Als ein User möchte ich geeignete Bilder zu den Informationen sehen, damit ich diese besser verstehe. |
+| 5  | muss | funktional | Als ein User möchte ich verschieden Farben und Schriftarten haben, damit ich mich besser orientieren kann. |
 | 6  | muss | funktional | Als ein User möchte ich mich über Verletzungen informieren, damit ich diese besser verstehen kann. |
 
 ### 1.3 Testfälle
@@ -34,7 +34,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 2.1    |User hat auf Ernährung geklickt | Der User klickt auf Cut | Die Unterseite Cut wird angezeigt |
 | 3.1    |User hat auf Ernährung geklickt | Der User klickt auf Bulk | Die Unterseite Bulk wird angezeigt |
 | 4.1    | Website ist offen | Der User klickt auf zum Beispiel auf Ernährung  | Man sieht die Bilder auf der Unterseite Ernährung |
-| 5.1   | User hat auf Körperliches geklickt | Der User klickt auf Eisbad | Die Unterseite Eisbad wird angezeigt |
+| 5.1   | Website ist offen | keine Eingabe | Der User sieht verschiedene Farben und Schriftarten |
 | 6.1   | User hat auf Körperliches geklickt | Der User klickt auf Physio |Die Unterseite Physio wird angezeigt|
 
 
@@ -46,8 +46,15 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-|   |       |           |              |               |
+| 4.A  |       |           | geeignete Bilder aussuchen | 45' |
+| 4.b  |       |           | Bilder zuschneiden und anpassen | 2 * 45' |
+| 4.c  |       |           | Bilder implementieren | 45' |
+| 5.a  |       |           | Farbschema aussuchen | 20' |
+| 5.b  |       |           | Farbe in die Website implementieren | 25' |
+| 5.c  |       |           | Schriftfarbe auswählen | 15' |
+| 5.d  |       |           | Schriftfarbe implementieren | 30' |
+
+
 
 ## 3 Entscheiden
 
