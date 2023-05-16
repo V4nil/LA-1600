@@ -25,6 +25,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 4  | muss | funktional | Als ein User möchte ich geeignete Bilder zu den Informationen sehen, damit ich diese besser verstehe. |
 | 5  | muss | funktional | Als ein User möchte ich verschieden Farben und Schriftarten haben, damit ich mich besser orientieren kann. |
 | 6  | muss | funktional | Als ein User möchte ich, dass mein bevorzugtes Farbschema erkennt wird, damit die Seite automatisch daran angepasst wird. |
+| 7  | kann | funktional | Als ein User möchte ich, dass es Videos gibt, damit ich mir bei der Ausführung sicher bin. |
 
 ### 1.3 Testfälle
 
@@ -36,6 +37,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 4.1    | Website ist offen | Der User klickt auf zum Beispiel auf Ernährung  | Man sieht die Bilder auf der Unterseite Ernährung |
 | 5.1   | Website ist offen | keine Eingabe | Der User sieht verschiedene Farben und Schriftarten |
 | 6.1   | - | Website wird geöffnet |Die Farben passen sich automatisch an|
+| 7.1   | Website ist offen | Auf ein Video wird geklickt |Video wird abgespielt|
 
 
 ### 1.4 Diagramme
@@ -57,6 +59,8 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 5.c  |23.04.23|Gilardoni| Schriftfarbe auswählen | 15' |
 | 5.d  |23.04.23|Gilardoni| Schriftfarbe implementieren | 30' |
 | 6.A  |23.04.23|Bytyqi| Website passt sich den ausgewählten Farbschema an | 2 * 45' |
+| 7.A  |23.04.23|Kritzner| Passendes Video aussuchen | 25' |
+| 7.B  |23.04.23|Kritzner|Video implementieren | 65' |
 
 
 
@@ -71,7 +75,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -80,8 +84,4 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
