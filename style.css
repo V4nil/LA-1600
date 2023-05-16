@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font: size 25px;
+}
+
+.EisBaden{
+    background-color: aqua;
+}
+
+a:hover{
+    font-size: larger;
+    color: blueviolet;
+}
+
+a:link{
+    text-decoration: none;
+}
