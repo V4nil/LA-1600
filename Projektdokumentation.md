@@ -26,6 +26,8 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 5  | muss | funktional | Als ein User möchte ich verschieden Farben und Schriftarten haben, damit ich mich besser orientieren kann. |
 | 6  | muss | funktional | Als ein User möchte ich, dass mein bevorzugtes Farbschema erkennt wird, damit die Seite automatisch daran angepasst wird. |
 | 7  | kann | funktional | Als ein User möchte ich, dass es Videos gibt, damit ich mir bei der Ausführung sicher bin. |
+| 8  | muss | funktional | Als ein User möchte ich viele Informationen erhalten, damit ich viel neues lernen kann. |
+| 9  | muss | funktional | Als ein User möchte ich ein tolles Layout, damit ich eine gute Orientation und Motivation habe diese Seite zu lesen. |
 
 ### 1.3 Testfälle
 
@@ -38,7 +40,8 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 5.1   | Website ist offen | keine Eingabe | Der User sieht verschiedene Farben und Schriftarten |
 | 6.1   | - | Website wird geöffnet |Die Farben passen sich automatisch an|
 | 7.1   | Website ist offen | Auf ein Video wird geklickt |Video wird abgespielt|
-
+| 8.1   | Website ist offen |Es wird eine Unterseite geöffnet |Es gibt viel informativen Text|
+| 9.1   | Website ist offen |keine Eingabe|Es gibt ein übersichtliches Layout|
 
 ### 1.4 Diagramme
 
@@ -52,17 +55,17 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 2.A  |23.04.23|Gilardoni| Website passt sich dem Bildschirm an | 4 * 45' |
 | 3.A  |23.04.23|Kritzner| Sprachen können geändert werden | 2 * 45' |
 | 4.A  |23.04.23|Kritzner| geeignete Bilder aussuchen | 45' |
-| 4.b  |23.04.23|Kritzner| Bilder zuschneiden und anpassen | 2 * 45' |
-| 4.c  |23.04.23|Kritzner| Bilder implementieren | 45' |
-| 5.a  |23.04.23|Gilardoni| Farbschema aussuchen | 20' |
-| 5.b  |23.04.23|Gilardoni| Farbe in die Website implementieren | 25' |
-| 5.c  |23.04.23|Gilardoni| Schriftfarbe auswählen | 15' |
-| 5.d  |23.04.23|Gilardoni| Schriftfarbe implementieren | 30' |
+| 4.B  |23.04.23|Kritzner| Bilder zuschneiden und anpassen | 2 * 45' |
+| 4.C  |23.04.23|Kritzner| Bilder implementieren | 45' |
+| 5.A  |23.04.23|Gilardoni| Farbschema aussuchen | 20' |
+| 5.B  |23.04.23|Gilardoni| Farbe in die Website implementieren | 25' |
+| 5.C  |23.04.23|Gilardoni| Schriftfarbe auswählen | 15' |
+| 5.D  |23.04.23|Gilardoni| Schriftfarbe implementieren | 30' |
 | 6.A  |23.04.23|Bytyqi| Website passt sich den ausgewählten Farbschema an | 2 * 45' |
 | 7.A  |23.04.23|Kritzner| Passendes Video aussuchen | 25' |
 | 7.B  |23.04.23|Kritzner|Video implementieren | 65' |
-
-
+| 8.A  |23.04.23|Gilardoni|Informativen Text erstellen | 45' |
+| 9.A  |23.04.23|Bytyqi|Website Layout erstellen | 45' |
 
 ## 3 Entscheiden
 
