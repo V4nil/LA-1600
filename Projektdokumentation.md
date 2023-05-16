@@ -20,19 +20,19 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
-| 2  | muss | funktional | Als ein User möchte ich vieles über den Cut erfahren, damit ich endlich richtig abnehmen kann. |
-| 3  | muss | funktional | Als ein User möchte ich vieles über den Bulk erfahren, damit ich endlich richtig Muskeln aufbauen kann. |
+| 2  | muss | funktional | Als ein User möchte ich, dass sich die Website auf den Bildschirm anpasst, damit ich auch mit dem Handy auf die Website kann. |
+| 3  | muss | funktional | Als ein User möchte ich, dass die Sprachen geändert werden können, damit ich meine bevorzugte Sprache auswählen kann. |
 | 4  | muss | funktional | Als ein User möchte ich geeignete Bilder zu den Informationen sehen, damit ich diese besser verstehe. |
 | 5  | muss | funktional | Als ein User möchte ich verschieden Farben und Schriftarten haben, damit ich mich besser orientieren kann. |
-| 6  | muss | funktional | Als ein User möchte ich mich über Verletzungen informieren, damit ich diese besser verstehen kann. |
+| 6  | muss | funktional | Als ein User möchte ich, dass mein bevorzugtes Farbschema erkennt wird, damit die Seite automatisch daran angepasst wird. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
 | 1.1   |Website ist offen |Der User klickt auf den Dark Mode     | Die ganze Seite ist jetzt im Dark Mode  |
-| 2.1    |User hat auf Ernährung geklickt | Der User klickt auf Cut | Die Unterseite Cut wird angezeigt |
-| 3.1    |User hat auf Ernährung geklickt | Der User klickt auf Bulk | Die Unterseite Bulk wird angezeigt |
+| 2.1    |- | Website wird auf Handy geöffnet | Website passt sich an |
+| 3.1    |Website ist offen| Der User ändert die Sprache | Die Seite wird übersetzt |
 | 4.1    | Website ist offen | Der User klickt auf zum Beispiel auf Ernährung  | Man sieht die Bilder auf der Unterseite Ernährung |
 | 5.1   | Website ist offen | keine Eingabe | Der User sieht verschiedene Farben und Schriftarten |
 | 6.1   | User hat auf Körperliches geklickt | Der User klickt auf Physio |Die Unterseite Physio wird angezeigt|
@@ -46,6 +46,9 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |23.04.23|Bytyqi| Darkmode implementieren | 4 * 45' |
+| 2.A  |23.04.23|Gilardoni| Website passt sich dem Bildschirm an | 4 * 45' |
+| 3.A  |23.04.23|Kritzner| Sprachen können geändert werden | 2 * 45' |
 | 4.A  |23.04.23|Kritzner| geeignete Bilder aussuchen | 45' |
 | 4.b  |23.04.23|Kritzner| Bilder zuschneiden und anpassen | 2 * 45' |
 | 4.c  |23.04.23|Kritzner| Bilder implementieren | 45' |
@@ -53,6 +56,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 5.b  |23.04.23|Gilardoni| Farbe in die Website implementieren | 25' |
 | 5.c  |23.04.23|Gilardoni| Schriftfarbe auswählen | 15' |
 | 5.d  |23.04.23|Gilardoni| Schriftfarbe implementieren | 30' |
+| 6.A  |23.04.23|Bytyqi| Website passt sich den ausgewählten Farbschema an | 2 * 45' |
 
 
 
