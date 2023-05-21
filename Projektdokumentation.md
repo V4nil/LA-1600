@@ -66,7 +66,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 7.A  |23.04.23|Kritzner| Passendes Video aussuchen | 25' |
 | 7.B  |23.04.23|Kritzner|Video implementieren | 65' |
 | 8.A  |23.04.23|Gilardoni|Informativen Text erstellen | 45' |
-| 9.A  |23.04.23|Bytyqi|Website Layout erstellen | 45' |
+| 9.A  |23.04.23|Kritzner|Website Layout erstellen | 45' |
 
 ## 3 Entscheiden
 
@@ -76,8 +76,10 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 4.A|13.05.23|Kritzner|45'|50'|
+| 7.A  |16.05.23|Kritzner|25'|25'|
+| 7.B|13.05.23|Kritzner|65'|70'|
+
 
 
 
