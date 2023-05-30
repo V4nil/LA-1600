@@ -52,8 +52,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
   
 ### 1.4 Diagramme
 
-![LA1600](https://github.com/V4nil/LA-1600/assets/110892683/4409ed25-05f9-4b30-b3e7-2bf2a9899a61)
-
+![LA1600 (1)](https://github.com/V4nil/LA-1600/assets/110892683/4f41b21e-2c7a-41b2-9d8f-cb4f143fcca9)
 
 ## 2 Planen
 
