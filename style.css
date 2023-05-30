@@ -8,7 +8,9 @@ h1 {
 .EisBaden {
     background-color: #B5B09F;
     margin: 10px 10px 10px 10px;
-    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 275px;
 }
 
 a:hover {
@@ -34,7 +36,6 @@ body {
     padding-right: 100px;
     padding-top: 30px;
     padding-bottom: 30px;
-    margin: auto;
 }
 
 .Link {
@@ -49,6 +50,17 @@ body {
 .Menu {
     padding-top: 20px;
     background-color: #B5B09F;
+}
+
+.Text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #B5B09F;
+    font-size: large;
+    text-align: center;
 }
 
 .TextDeutsch {
