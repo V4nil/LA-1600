@@ -4,8 +4,9 @@ Gilardoni, Bytyqi, Kritzner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Erste Website veröffentlicht und angefangen Projektdokumentation auszufüllen. |
-
+|16.05.23 | 0.0.1   | Erste Website veröffentlicht und angefangen Projektdokumentation auszufüllen. |
+|23.05.23| 0.0.2   | Angefangen Funktionen zu implementieren. |
+|30.05.23| 0.0.3   | Einige Funktionen implementiert und Dokumentation ausgefüllt. |
 
 ## 1 Informieren
 
@@ -19,9 +20,9 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
+| 1    | kann | funktional | Als ein User möchte ich den Dark Mode aktivieren, damit ich meinen bevorzugten Modus aussuchen kann. |
 | 2  | muss | funktional | Als ein User möchte ich, dass sich die Website auf den Bildschirm anpasst, damit ich auch mit dem Handy auf die Website kann. |
-| 3  | muss | funktional | Als ein User möchte ich, dass die Sprachen geändert werden können, damit ich meine bevorzugte Sprache auswählen kann. |
+| 3  | kann | funktional | Als ein User möchte ich, dass die Sprachen geändert werden können, damit ich meine bevorzugte Sprache auswählen kann. |
 | 4  | muss | funktional | Als ein User möchte ich geeignete Bilder zu den Informationen sehen, damit ich diese besser verstehe. |
 | 5  | muss | funktional | Als ein User möchte ich verschieden Farben und Schriftarten haben, damit ich mich besser orientieren kann. |
 | 6  | muss | funktional | Als ein User möchte ich, dass mein bevorzugtes Farbschema erkennt wird, damit die Seite automatisch daran angepasst wird. |
