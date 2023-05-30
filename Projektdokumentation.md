@@ -28,6 +28,9 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 7  | kann | funktional | Als ein User möchte ich, dass es Videos gibt, damit ich mir bei der Ausführung sicher bin. |
 | 8  | muss | funktional | Als ein User möchte ich viele Informationen erhalten, damit ich viel neues lernen kann. |
 | 9  | muss | funktional | Als ein User möchte ich ein tolles Layout, damit ich eine gute Orientation und Motivation habe diese Seite zu lesen. |
+| 10  | muss | funktional | Als ein User möchte ich am Anfang ein Carousel sehen, damit ich einen Eindruck erhalte, was auf dieser Website steht. |
+| 11 | muss | funktional | Als ein User möchte ich ein Formular, bei dem ich meine Makros eintragen kann. (Keine Funktionalität) |
+| 12 | muss | funktional | Als ein User möchte ich Videos, welche nicht von Youtube verlinkt werden, sondern als <video> tag eingebunden werden. |
 
 ### 1.3 Testfälle
 
@@ -42,7 +45,10 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 7.1   | Website ist offen | Auf ein Video wird geklickt |Video wird abgespielt|
 | 8.1   | Website ist offen |Es wird eine Unterseite geöffnet |Es gibt viel informativen Text|
 | 9.1   | Website ist offen |keine Eingabe|Es gibt ein übersichtliches Layout|
-
+| 10.1   | Website ist offen |keine Eingabe|Es gibt animiertes Carousel|
+| 11.1   | Website ist offen |keine Eingabe|Es gibt ein interaktives Formular, bei dem man nur Zahlen eingeben kann|
+| 12.1   | Website ist offen |keine Eingabe|Es gibt Videos, welche sich der Website anpassen|  
+  
 ### 1.4 Diagramme
 
 ![LA1600](https://github.com/V4nil/LA-1600/assets/110892683/4409ed25-05f9-4b30-b3e7-2bf2a9899a61)
@@ -67,6 +73,12 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 7.B  |23.04.23|Kritzner|Video implementieren | 65' |
 | 8.A  |23.04.23|Gilardoni|Informativen Text erstellen | 45' |
 | 9.A  |23.04.23|Kritzner|Website Layout erstellen | 45' |
+| 10.A  |30.04.23|Gilardoni|Carousel erstellen | 2 * 45' |
+| 11.A  |30.04.23|Bytyqi|Formular erstellen | 25' |
+| 11.B |30.04.23|Bytyqi|Das Design des Formulars passt sich an (Feld wird hervorgehoben) | 20' |
+| 11.C  |30.04.23|Bytyqi|Es können nur Zahlen eingegeben werden | 30' |
+| 12.A  |30.04.23|Kritzner|Videos einbinden mit <video> tag | 25' |
+| 12.B |30.04.23|Kritzner|Videos passen sich der Website an | 20' |
 
 ## 3 Entscheiden
 
