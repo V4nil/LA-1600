@@ -92,8 +92,14 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 | 4.A|13.05.23|Kritzner|45'|50'|
 | 4.B|13.05.23|Kritzner|2 * 45'|20'|
 | 4.C|13.05.23|Kritzner|45'|30'|
-| 7.A  |16.05.23|Kritzner|25'|25'|
+| 5.A|13.05.23|Gilardoni|20'|15'|
+| 5.B|13.05.23|Gilardoni|25'|25'|
+| 5.c|13.05.23|Gilardoni|15'|15'|
+| 5.D|16.05.23|Gilardoni|30'|40'|
+| 7.A|16.05.23|Kritzner|25'|25'|
 | 7.B|13.05.23|Kritzner|65'|70'|
+| 8.A|16.05.23|Gilardoni|45'|60'|
+| 10.A|16.05.23|Gilardoni|2*45'|'|
 | 12.A|13.05.23|Kritzner|25'|25'|
 
 
