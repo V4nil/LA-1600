@@ -88,6 +88,7 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 2.A|13.05.23|Gilardoni|4*45'|90'|
 | 4.A|13.05.23|Kritzner|45'|50'|
 | 4.B|13.05.23|Kritzner|2 * 45'|20'|
 | 4.C|13.05.23|Kritzner|45'|30'|
