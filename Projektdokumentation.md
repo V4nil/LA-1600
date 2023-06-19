@@ -108,7 +108,16 @@ Wir machen eine Website, wo man sich über Ernährung und Körperliches informie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+| 1.1  | 17.06.23|funktioniert nicht|Gilardoni|
+| 2.1  |17.06.23|funktioniert|Gilardoni|
+| 3.1  |17.06.23|funktioniert|Gilardoni|
+| 4.1  |17.06.23|funktioniert|Gilardoni|
+| 5.1  |17.06.23|funktioniert|Kritzner|
+| 6.1  |17.06.23|funktioniert nicht|Kritzner|
+| 7.1  |17.06.23|funktioniert|Kritzner|
+| 8.1  |17.06.23|funktioniert|Kritzner|
+| 9.1  |17.06.23|funktioniert|Bytyqi|
+| 10.1  |17.06.23|funktioniert nicht|Bytyqi|
+| 11.1  |17.06.23|funktioniert nicht|Bytyqi|
+| 12.1  |17.06.23|funktioniert|Bytyqi|
 
