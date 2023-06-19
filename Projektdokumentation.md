@@ -7,6 +7,8 @@ Gilardoni, Bytyqi, Kritzner
 |16.05.23 | 0.0.1   | Erste Website veröffentlicht und angefangen Projektdokumentation auszufüllen. |
 |23.05.23| 0.0.2   | Angefangen Funktionen zu implementieren. |
 |30.05.23| 0.0.3   | Einige Funktionen implementiert und Dokumentation ausgefüllt. |
+|06.06.23| 0.0.4   | An der Website gearbeitet. |
+|13.06.23| 0.0.4   | Dokumentation und Präsentation fertig gestellt. |
 
 ## 1 Informieren
 
