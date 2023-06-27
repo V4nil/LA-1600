@@ -14,9 +14,11 @@ Wir haben eine Website über Fitness und alles was man darüber wissen muss prog
 In diesem Projekt haben wir gelernt, wie man anhand Checkboxen Text verstecken und wieder zeigen kann.
 ## Beschreibung
 
+
 Wir wissen nun wie wir mit Hilfe von einer Checkbox, einen Text verstecken können. 
 Anhand des Codebeispiel (Siehe unten 👇🏼) kann man den Code sehen, welcher zum Verstecken des Texts verwendet wird.
 Man kann auch mehrere Checkboxen verwenden um mehrere Texte zu verstecken.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
@@ -49,6 +51,9 @@ Man kann auch mehrere Checkboxen verwenden um mehrere Texte zu verstecken.
 ```
 
 `Gif:`
+
+
+![Design ohne Titel (1)](https://github.com/V4nil/LA-1600/assets/110892683/c14c1911-4607-4ebe-a03b-46990520af4a)
 
 
 ## Verifikation
